@@ -1,4 +1,4 @@
-h1{
+/* h1{
     color: blue;
     background-color: slategray;
     font-size: 20px;
@@ -8,7 +8,7 @@ h1{
    
 }
 
-p{
+.error{
     color: brown;
     background-color: orange;
     font-size: 20px;
@@ -20,7 +20,22 @@ p{
 
 }
 
+
+.success{
+    color: lawngreen;
+    background-color: orange;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    line-height: 30px;
+    letter-spacing: 3px;
+    column-count: 3;
+
+}
 div{
     padding: 3px;
     margin: 3px;
-}
+} */
+ div p{
+    color: blue;
+ }
